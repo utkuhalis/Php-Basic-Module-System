@@ -1,0 +1,28 @@
+{
+    "moduleList": [
+        {
+            "code": "module1",
+            "name": "Module #1",
+            "version": "1.0.0",
+            "file":"module1.zip"
+        },
+        {
+            "code": "module2",
+            "name": "Module #2",
+            "version": "1.0.0",
+            "file":"module2.zip"
+        },
+        {
+            "code": "module3",
+            "name": "Module #3",
+            "version": "1.0.0",
+            "file":"module3.zip"
+        },
+        {
+            "code": "module4",
+            "name": "Module #4",
+            "version": "1.0.0",
+            "file":"module4.zip"
+        }
+    ]
+}
