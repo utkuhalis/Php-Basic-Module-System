@@ -5,3 +5,5 @@ I added 2 custom modules and 4 installable server modules.
 Server modules are in the fakeServer directory.
 
 This project was written at the basic level and there may be deficiencies. Not suitable for commercial purposes.
+
+![alt text](https://github.com/utkuhalis/Php-Basic-Module-System/blob/main/screenshot.jpg?raw=true)
