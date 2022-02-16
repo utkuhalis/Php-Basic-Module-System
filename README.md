@@ -6,4 +6,4 @@ Server modules are in the fakeServer directory.
 
 This project was written at the basic level and there may be deficiencies. Not suitable for commercial purposes.
 
-![alt text](https://github.com/utkuhalis/Php-Basic-Module-System/blob/main/screenshot.jpg?raw=true)
+![there is no alt text](https://raw.githubusercontent.com/utkuhalis/Php-Basic-Module-System/main/screenshot.png)
